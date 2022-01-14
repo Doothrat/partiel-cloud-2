@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule http://public/nexindex.html [R=301]
