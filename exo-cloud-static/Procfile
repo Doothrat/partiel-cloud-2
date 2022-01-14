@@ -1,1 +1,1 @@
-web : vendor/bin/heroku-php-apache2 public/
+web : vendor/bin/esgi-cloud-exam-2-6c9db1.herokuapp.com public/
